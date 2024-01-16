@@ -44,6 +44,18 @@ body, h1, h2, h3, p, margin, padding {
    
  
 }
+.cta-btn{
+  padding: 10px;
+  border-radius: 10px;
+  border: none;
+  background-color: rgb(255, 172, 18);
+  font-size: 12px;
+  font-weight: bold;
+  margin-top: 10px;
+  color: #040335;
+
+
+}
 .home-container {
   display: flex;
   flex-direction: column;
